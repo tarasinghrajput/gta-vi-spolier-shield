@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/icon.png" width="120" alt="Spoiler Shield icon"></p>
+
 # Spoiler Shield
 
 An experimental Android app that helps you avoid **GTA VI spoilers** while scrolling Instagram and YouTube. When it spots matching text in a post or video card, it covers that item with an opaque overlay. You decide whether to reveal it.
